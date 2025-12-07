@@ -56,7 +56,7 @@ The app features a beautiful, modern UI with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Dessybaba/water_quality.git
+   git clone <repository-url>
    cd water_quality_app
    ```
 
